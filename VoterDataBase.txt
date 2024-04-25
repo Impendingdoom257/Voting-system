@@ -1,0 +1,7 @@
+ID		Voter Status	Name
+--------------------------------------------
+1100000000	No		Brian Cerda
+1100000001	No		John Doe
+1100000010	No		Jane Doe
+1100000011	No		George Smith
+1100000100	No		Jenny Smith

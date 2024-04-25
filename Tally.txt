@@ -1,0 +1,6 @@
+Candidates 	Votes	
+-------------------------------
+Mickey Mouse	0
+Donald Duck	0
+Bugs Bunny	0
+TOTAL		0
